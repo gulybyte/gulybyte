@@ -1,3 +1,6 @@
+<p align="center"><img src="/assets/animationdev.gif" width="35%"></p>
+<div style="clear: both;"></div>
+
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
 <img align="right" height="150" width="150" src="/assets/devs.gif"/>
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
@@ -14,7 +17,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 </p>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
-<img align="right" width="250px" src="/assets/octocat.png">
+<img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
   <summary>🧑 Mais sobre mim</summary>
@@ -36,7 +39,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 <p align="right"> <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGuilhermeLuisFranca404"/></a> <a href="https://github.com/GuilhermeLuisFranca404?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GuilhermeLuisFranca404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> <a href="https://github.com/GuilhermeLuisFranca404"> <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GuilhermeLuisFranca404&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a></p>
 
-## 📘 Meus melhores nem tanto projeto Open Source:
+## 📘 Meus melhores nem tanto projetos Open Source:
 
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=react" alt="custom-icon-badges"></a>
@@ -48,12 +51,20 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
 
-<!--<img align="left" width="250px" src="/assets/programming.gif"/>-->
 
 
+<img align="right" width="270px" src="/assets/programming.gif"/>
+<a href="https://github.com/GuilhermeLuisFranca404">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=github-dark-blue&hide_border=true" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
+</a>
 
+
+<!--
+<p align="center"><img width="35%" src="/assets/programming.gif"/></p>
+-->
 
 <div style="clear: both;"></div><div style="clear: both;"></div>
-<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+<img width="100%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"/>
 
 
