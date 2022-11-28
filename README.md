@@ -1,6 +1,6 @@
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
 <img align="right" height="150" width="150" src="/assets/devs.gif"/>
-Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
+Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="/assets/html.png">
   <img align="center" height="40" width="40" src="/assets/css.png">
