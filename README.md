@@ -41,7 +41,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 <img align="right" width="250px" src="/assets/octocat.png">
 
-<details>
+<details align="left">
   <summary>🧑 Mais sobre mim</summary>
 
 - 🔭 Atualmente estou estudando sobre arquitetura de microservicos avançada;
@@ -57,6 +57,16 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 - 📫 Entre com contato via <a target="_blank" href="https://wa.me/5541995544255">Whatsapp</a>;
 
 </details>
+<div style="clear: both;"></div><div style="clear: both;"></div>
+
+<p align="right">
+  <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGuilhermeLuisFranca404"/></a>
+  <a href="https://github.com/GuilhermeLuisFranca404?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GuilhermeLuisFranca404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GuilhermeLuisFranca404">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GuilhermeLuisFranca404&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
+</p>
 
 ## 📘 Meus melhores nem tanto projeto Open Source:
 
@@ -66,15 +76,6 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 </p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-<p align="right">
-  <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGuilhermeLuisFranca404"/></a>
-  <a href="https://github.com/GuilhermeLuisFranca404?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GuilhermeLuisFranca404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/GuilhermeLuisFranca404">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GuilhermeLuisFranca404&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
 
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
