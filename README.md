@@ -1,5 +1,5 @@
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
-<img align="right" width="250px" src="/assets/octocat.png">
+<img align="right" height="200" width="200" src="/assets/devs.gif"/>
 Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS.
 
 <div style="display: inline_block"><br>
@@ -25,11 +25,8 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
   <img align="center" height="40" width="40" src="/assets/elastic search.png">
   <img align="center" height="40" width="40" src="/assets/redis.png">
   <img align="center" height="40" width="40" src="/assets/h2.png">
-  <img align="center" height="40" width="40" src="/assets/java.png">
-  <img align="center" height="40" width="40" src="/assets/spring.png">
   <img align="center" height="40" width="40" src="/assets/vscode.png">
   <img align="center" height="40" width="40" src="/assets/intellij.png">
-  <img align="center" height="40" width="40" src="/assets/aws.webp">
   <img align="center" height="40" width="40" src="/assets/jaspersoft.png">
 </div><br><br><br>
 
@@ -38,6 +35,9 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
 <a href="https://github.com/jeniblodev">
   <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast"/>
-  <img align="right" height="200" width="200" src="/assets/devs.gif"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
+
+<img align="center" width="250px" src="/assets/octocat.png">
