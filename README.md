@@ -1,33 +1,8 @@
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
 <img align="right" height="150" width="150" src="/assets/devs.gif"/>
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="/assets/html.png">
-  <img align="center" height="40" width="40" src="/assets/css.png">
-  <img align="center" height="40" width="40" src="/assets/js.png">
-  <img align="center" height="40" width="40" src="/assets/ts.png">
-  <img align="center" height="40" width="40" src="/assets/jquery.png">
-  <img align="center" height="40" width="40" src="/assets/bootstrap.png">
-  <img align="center" height="40" width="40" src="/assets/angular.png">
-  <img align="center" height="40" width="40" src="/assets/git.png">
-  <img align="center" height="40" width="40" src="/assets/github.png">
-  <img align="center" height="40" width="40" src="/assets/docker.png">
-  <img align="center" height="40" width="40" src="/assets/kubernates.png">
-  <img align="center" height="40" width="40" src="/assets/jenkins.png">
-  <img align="center" height="40" width="40" src="/assets/promethues.png">
-  <img align="center" height="40" width="40" src="/assets/grafana.png">
-  <img align="center" height="40" width="40" src="/assets/linux.png">
-  <img align="center" height="40" width="40" src="/assets/manjaro.png">
-  <img align="center" height="40" width="40" src="/assets/postgresql.png">
-  <img align="center" height="40" width="40" src="/assets/mongodb.png">
-  <img align="center" height="40" width="40" src="/assets/cassandra.png">
-  <img align="center" height="40" width="40" src="/assets/elastic search.png">
-  <img align="center" height="40" width="40" src="/assets/redis.png">
-  <img align="center" height="40" width="40" src="/assets/h2.png">
-  <img align="center" height="40" width="40" src="/assets/vscode.png">
-  <img align="center" height="40" width="40" src="/assets/intellij.png">
-  <img align="center" height="40" width="40" src="/assets/jaspersoft.png">
-</div>
+
+<div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
 ##
@@ -59,14 +34,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 </details>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
-<p align="right">
-  <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGuilhermeLuisFranca404"/></a>
-  <a href="https://github.com/GuilhermeLuisFranca404?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GuilhermeLuisFranca404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/GuilhermeLuisFranca404">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GuilhermeLuisFranca404&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
-</p>
+<p align="right"> <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGuilhermeLuisFranca404"/></a> <a href="https://github.com/GuilhermeLuisFranca404?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GuilhermeLuisFranca404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> <a href="https://github.com/GuilhermeLuisFranca404"> <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GuilhermeLuisFranca404&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a></p>
 
 ## 📘 Meus melhores nem tanto projeto Open Source:
 
@@ -81,3 +49,11 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
 
 <!--<img align="left" width="250px" src="/assets/programming.gif"/>-->
+
+
+
+
+<div style="clear: both;"></div><div style="clear: both;"></div>
+<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+
+
