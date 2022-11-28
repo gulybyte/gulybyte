@@ -31,4 +31,12 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
   <img align="center" height="40" width="40" src="/assets/intellij.png">
   <img align="center" height="40" width="40" src="/assets/aws.webp">
   <img align="center" height="40" width="40" src="/assets/jaspersoft.png">
-</div>
+</div><br><br><br>
+
+##
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
