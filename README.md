@@ -1,5 +1,5 @@
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
-<img align="right" height="200" width="200" src="/assets/devs.gif"/>
+<img align="right" height="150" width="150" src="/assets/devs.gif"/>
 Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS.
 
 <div style="display: inline_block"><br>
@@ -29,7 +29,7 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
   <img align="center" height="40" width="40" src="/assets/intellij.png">
   <img align="center" height="40" width="40" src="/assets/jaspersoft.png">
 </div>
-<div style="clear: both;"></div>
+<div style="clear: both;"></div><div style="clear: both;"></div>
 
 ##
 <p align="center">
@@ -38,6 +38,7 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast"/>
 </a>
 </p>
+<div style="clear: both;"></div><div style="clear: both;"></div>
 
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
 
