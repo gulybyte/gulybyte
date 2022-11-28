@@ -34,9 +34,10 @@ Entendo de programação baixo nivel, porém meu foco é em desenvolvimento web,
 </div><br><br><br>
 
 ##
-<p align="center">
+<p>
 <a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img align="right" height="200" width="200" src="/assets/devs.gif"/>
 </a>
 </p>
