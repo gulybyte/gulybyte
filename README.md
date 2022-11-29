@@ -1,6 +1,8 @@
 <p align="center"><img src="/assets/welcome.gif" width="50%"></p>
 <div style="clear: both;"></div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0037d1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme,+tenho+17+anos;Apenas+um+grande+apaixonado+em+tecnologia)](https://git.io/typing-svg)
+
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
 
 <h1 align="center"> Social Media: </h1>
@@ -73,6 +75,9 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
 </a>
 
+<p align="center">
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeLuisFranca404&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <!--
 <p align="center"><img width="35%" src="/assets/programming.gif"/></p>
