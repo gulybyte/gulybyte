@@ -1,7 +1,7 @@
 <p align="center"><img src="/assets/welcome.gif" width="50%"></p>
 <div style="clear: both;"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0037d1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme,+tenho+17+anos;Apenas+um+grande+apaixonado+em+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdd6d1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme,+tenho+17+anos;Apenas+um+grande+apaixonado+em+tecnologia)](https://git.io/typing-svg)
 
 <h1 align="center"> Social Media: </h1>
   <p align="center">
