@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/welcome.gif" width="100%"></p>
+<p align="center"><img src="/assets/welcome.gif" width="50%"></p>
 <div style="clear: both;"></div>
 
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
