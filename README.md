@@ -1,7 +1,21 @@
-<p align="center"><img src="/assets/animationdev.gif" width="35%"></p>
+<p align="center"><img src="/assets/welcome.gif" width="100%"></p>
 <div style="clear: both;"></div>
 
 # Olá, meu nome é Guilherme, apenas um jovem apaixonado por tecnologia desde de os 15 anos.
+
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+    <a href="https://www.GOOGLE.com/">
+      <img src="https://img.shields.io/badge/WebPage-7cebf5?&style=for-the-badge&logo=/assets/web.png&logoColor=black">
+    </a>
+    <a href="https://wa.me/5541995544255">
+      <img src="https://img.shields.io/badge/SEND%20MESSAGE-7cebf5?&style=for-the-badge&logo=whatsappblack&logoColor=black">
+    </a>
+    <a href="mailto:guilhermeluisfranca404@outlook.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
+  </p>
+</h1>
 <img align="right" height="150" width="150" src="/assets/devs.gif"/>
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
 
@@ -53,7 +67,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 
 
-<img align="right" width="270px" src="/assets/programming.gif"/>
+<img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=github-dark-blue&hide_border=true" />
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
