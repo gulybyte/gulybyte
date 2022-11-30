@@ -22,15 +22,6 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
-##
-<p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-</a>
-</p>
-<div style="clear: both;"></div><div style="clear: both;"></div>
-
 <img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
@@ -63,21 +54,31 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+##
 <p align="center">
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeLuisFranca404&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<a href="https://github.com/GuilhermeLuisFranca404">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+</a>
 </p>
-
-![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeLuisFranca404}/count.svg" /></p> 
-</div>
+<div style="clear: both;"></div><div style="clear: both;"></div>
 
 <img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=github-dark-blue&hide_border=true" />
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
 </a>
+
+  <a href="https://github.com/GuilhermeLuisFranca404">
+     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=GuilhermeLuisFranca404&row=4&theme=onedark&no-frame=true"/>
+  </a>    
+</a>
+
+![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeLuisFranca404}/count.svg" /></p> 
+</div>
 
 <!--
 <p align="center"><img width="35%" src="/assets/programming.gif"/></p>
