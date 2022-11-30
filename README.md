@@ -48,8 +48,8 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 ## 📘 Meus melhores nem tanto projetos Open Source:
 
 <p align="left">
-  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=react" alt="custom-icon-badges"></a>
-  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=react" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -58,8 +58,8 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 ##
 <p align="center">
 <a href="https://github.com/GuilhermeLuisFranca404">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&layout=compact&langs_count=8&theme=highcontrast&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeLuisFranca404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeLuisFranca404&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <div style="clear: both;"></div><div style="clear: both;"></div>
