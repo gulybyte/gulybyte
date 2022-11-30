@@ -16,12 +16,11 @@
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail">
     </a>
   </p>
-</h1>
 <img align="right" height="150" width="150" src="/assets/devs.gif"/>
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
 
 <div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
-<div style="clear: both;"></div><div style="clear: both;"></div>
+<div style="clear: both;"></div###################################><div style="clear: both;"></div>
 
 <img align="right" width="320px" src="/assets/octocat.png">
 
@@ -48,8 +47,8 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 ## 📘 Meus melhores nem tanto projetos Open Source:
 
 <p align="left">
-  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=algolia&hide_border=true" alt="custom-icon-badges"></a>
-  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -86,5 +85,4 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 <div style="clear: both;"></div><div style="clear: both;"></div>
 <img width="100%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"/>
-
 
