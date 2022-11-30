@@ -31,7 +31,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 - 🌱 Atualmente estou aprendendo sobre ecossistema Spring especialmente microservices;
 
-- 🤝 Estou também a procura de ajuda e de pessoas com projetos massas para que eu possa contribuir;
+- 🤝 Estou também a procura de ajuda e de pessoas com projetos massreact-darkas para que eu possa contribuir;
 
 - 👨‍💻 A maioria de meus projetos estão private, mas agora vou focar em criar open sources;
 
@@ -49,7 +49,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=react" alt="custom-icon-badges"></a>
   <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=react" alt="custom-icon-badges"></a>
-</p>
+</p>react-dark
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
@@ -65,13 +65,12 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 <img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=github-dark-blue&hide_border=true" />
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=algolia&hide_border=true" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=algolia" />
 </a>
 
-  <a href="https://github.com/GuilhermeLuisFranca404">
-     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=GuilhermeLuisFranca404&row=4&theme=onedark&no-frame=true"/>
-  </a>    
+<a href="https://github.com/GuilhermeLuisFranca404">
+   <img width="98%" src="https://github-trophies.vercel.app/?username=GuilhermeLuisFranca404&theme=algolia&no-frame=true"/>
 </a>
 
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
