@@ -69,6 +69,10 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 ![Snake animation](https://github.com/GuilhermeLuisFranca404/GuilhermeLuisFranca404/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeLuisFranca404}/count.svg" /></p> 
+</div>
+
 <img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=github-dark-blue&hide_border=true" />
