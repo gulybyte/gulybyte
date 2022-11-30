@@ -25,7 +25,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
-  <summary>🧑 Mais sobre mim</summary>
+  <summary><h2>🧑 Mais sobre mim</h2></summary>
 
 - 🔭 Atualmente estou estudando sobre arquitetura de microservicos avançada;
 
