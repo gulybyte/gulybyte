@@ -7,7 +7,7 @@
 
 
 
-<img align="right" height="150" width="150" src="/assets/devs.gif"/>
+<img align="right" height="120" width="120" src="/assets/devs.gif"/>
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
 
 
