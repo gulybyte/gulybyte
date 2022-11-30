@@ -48,8 +48,8 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 ## 📘 Meus melhores nem tanto projetos Open Source:
 
 <p align="left">
-  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
-  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=algolia&hide_border=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
