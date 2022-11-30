@@ -1,6 +1,7 @@
 <p align="center"><img src="/assets/welcome.gif" width="50%"></p>
 <div style="clear: both;"></div>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdd6d1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme,+tenho+17+anos;Apenas+um+grande+apaixonado+em+tecnologia)](https://git.io/typing-svg)
 
 <h1 align="center"> Social Media: </h1>
@@ -20,18 +21,18 @@
 Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
 
 <div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
-<div style="clear: both;"></div><div style="clear: both;"></div>
+<div style="clear: both;"></div###################################><div style="clear: both;"></div>
 
 <img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
-  <summary>🧑 Mais sobre mim</summary>
+  <summary><h1>🧑 Mais sobre mim</h1></summary>
 
 - 🔭 Atualmente estou estudando sobre arquitetura de microservicos avançada;
 
 - 🌱 Atualmente estou aprendendo sobre ecossistema Spring especialmente microservices;
 
-- 🤝 Estou também a procura de ajuda e de pessoas com projetos massreact-darkas para que eu possa contribuir;
+- 🤝 Estou também a procura de ajuda e de pessoas com projetos massas para que eu possa contribuir;
 
 - 👨‍💻 A maioria de meus projetos estão private, mas agora vou focar em criar open sources;
 
@@ -49,7 +50,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=ThymeleafMasters&theme=react" alt="custom-icon-badges"></a>
   <a href="https://github.com/GuilhermeLuisFranca404/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=GuilhermeLuisFranca404&repo=api-gerenciamento-de-tarefas&theme=react" alt="custom-icon-badges"></a>
-</p>react-dark
+</p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
@@ -66,7 +67,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=algolia&hide_border=true" />
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=algolia" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
 </a>
 
 <a href="https://github.com/GuilhermeLuisFranca404">
