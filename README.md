@@ -58,7 +58,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 </p>
 <p align="left">
   <a href="https://github.com/GuilhermeLuisFranca404?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/GuilhermeLuisFranca404"> <img alt="views" title="GitHub profile views" src="https://visitor-badge.glitch.me/badge?page_id=GuilhermeLuisFranca404&left_color=dark-blue&right_color=blue"/></a>
+  <a href="https://github.com/GuilhermeLuisFranca404"> <img alt="views" title="GitHub profile views" src="https://visitor-badge.glitch.me/badge?page_id=GuilhermeLuisFranca404&right_color=blue"/></a>
 </p>
 
 ##
