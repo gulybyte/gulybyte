@@ -73,7 +73,6 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <img align="right" width="200px" src="/assets/animationdev.gif"/>
 <a href="https://github.com/GuilhermeLuisFranca404">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeLuisFranca404&theme=algolia&hide_border=true" />
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GuilhermeLuisFranca404&theme=react-dark" />
 </a>
 
 <a href="https://github.com/GuilhermeLuisFranca404">
