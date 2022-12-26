@@ -2,7 +2,7 @@
 <div style="clear: both;"></div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdd6d1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme,+tenho+17+anos;Apenas+um+grande+apaixonado+em+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdd6d1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+github;My+name+is+Guilherme,+I+have+17+years;Just+a+big+tech+lover)](https://git.io/typing-svg)
 
 <h1 align="center"> Social Media: </h1>
   <p align="center">
@@ -17,7 +17,7 @@
     </a>
   </p>
 <img align="right" height="100" width="100" src="/assets/devs.gif"/>
-Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especialmente me especializando em Spring & AWS. 🛠 Tecnologias que domino:
+I love programming low level, but my focus is the development web, especially in Spring & AWS. 🛠 Technologies I master:
 
 <div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
@@ -25,19 +25,19 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
-  <summary><h2>🧑 Mais sobre mim</h2></summary>
+  <summary><h2>🧑 About me</h2></summary>
 
-- 🔭 Atualmente estou estudando sobre arquitetura de microservicos avançada;
+- 🔭 Currently studying microservices architecture;
 
-- 🌱 Atualmente estou aprendendo sobre ecossistema Spring especialmente microservices;
+- 🌱 Currently especiallying in ecosystem Spring;
 
-- 🤝 Estou também a procura de ajuda e de pessoas com projetos massas para que eu possa contribuir;
+- 🤝 Looking projects incredibles that I can contribution;
 
-- 👨‍💻 A maioria de meus projetos estão private, mas agora vou focar em criar open sources;
+- 👨‍💻 The my projects is the private, yet now focus is creating open sources;
 
-- 💬 Estou aberto a perguntas, especialmente sobre Spring e AWS no geral;
+- 💬 I'm open to questions, especially about Spring and AWS.;
 
-- 📫 Entre com contato via <a target="_blank" href="https://wa.me/5541995544255">Whatsapp</a>;
+- 📫 Get in touch <a target="_blank" href="https://wa.me/5541995544255">Whatsapp</a> ou <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
 
 </details>
 <div style="clear: both;"></div><div style="clear: both;"></div>
@@ -50,7 +50,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 
 </p>
 
-## 📘 Meus melhores nem tanto projetos Open Source:
+## 📘 Noteworthy Projects:
 
 <p align="left">
   <a href="https://github.com/gulybyte/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=ThymeleafMasters&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
