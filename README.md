@@ -43,7 +43,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
 <p align="right"> 
-<a href="https://github.com/gulybyte?tab=repositories"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fgulybyte/></a> <a href="https://github.com/gulybyte?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gulybyte?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+<!--<a href="https://github.com/gulybyte?tab=repositories"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fgulybyte/></a>--> <a href="https://github.com/gulybyte?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gulybyte?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 
 <!-- https://github.com/Nathan13888/VisitorBadgeReloaded/issues/25 -->
 <!--<a href="https://github.com/gulybyte"> <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gulybyte&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>-->
@@ -58,7 +58,7 @@ Amo programação baixo nivel, porém meu foco é em desenvolvimento web, especi
 </p>
 <p align="left">
   <a href="https://github.com/gulybyte?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <!--<a href="https://github.com/gulybyte"> <img alt="views" title="GitHub profile views" src="https://visitor-badge.glitch.me/badge?page_id=gulybyte&right_color=blue"/></a>-->
+  <a href="https://github.com/gulybyte"> <img alt="views" title="GitHub profile views" src="https://visitor-badge.glitch.me/badge?page_id=gulybyte&right_color=blue"/></a>
 </p>
 
 ##
