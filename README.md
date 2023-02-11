@@ -53,7 +53,7 @@ I love programming low level, but my focus is the development web, especially in
 ## 📘 Noteworthy Projects:
 
 <p align="left">
-  <a href="https://github.com/gulybyte/ThymeleafMasters"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=ThymeleafMasters&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
+  <a href="https://github.com/gulybyte/Java-Assuntos-Gerais"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=Java-Assuntos-Gerais&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
   <a href="https://github.com/gulybyte/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=api-gerenciamento-de-tarefas&theme=algolia&hide_border=true"" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
