@@ -28,12 +28,15 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
     <img align="center" height="40" width="40" src="/assets/webpack.png" />
+    <img align="center" height="40" width="40" src="/assets/npm.png" />
     <img align="center" height="40" width="40" src="/assets/ts.png" />
     <img align="center" height="40" width="40" src="/assets/angular.png" />
     <img align="center" height="40" width="40" src="/assets/primeng.png" />
     <img align="center" height="40" width="40" src="/assets/git.png" />
     <img align="center" height="40" width="40" src="/assets/github.png" />
+    <img align="center" height="40" width="40" src="/assets/vercel.png" />
     <img align="center" height="40" width="40" src="/assets/docker.png" />
+    <img align="center" height="40" width="40" src="/assets/compose.png" />
     <img align="center" height="40" width="40" src="/assets/kubernates.png" />
     <img align="center" height="40" width="40" src="/assets/jenkins.png" />
     <img align="center" height="40" width="40" src="/assets/promethues.png" />
