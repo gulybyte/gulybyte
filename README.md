@@ -34,7 +34,7 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/primeng.png" />
     <img align="center" height="40" width="40" src="/assets/git.png" />
     <img align="center" height="40" width="40" src="/assets/github.png" />
-    <img align="center" height="40" width="40" src="/assets/vercel.png" />
+    <img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
     <img align="center" height="40" width="40" src="/assets/docker.png" />
     <img align="center" height="40" width="40" src="/assets/compose.png" />
     <img align="center" height="40" width="40" src="/assets/kubernates.png" />
@@ -42,15 +42,17 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/promethues.png" />
     <img align="center" height="40" width="40" src="/assets/grafana.png" />
     <img align="center" height="40" width="40" src="/assets/linux.png" />
-    <img align="center" height="40" width="40" src="/assets/manjaro.png" />
     <img align="center" height="40" width="40" src="/assets/postgresql.png" />
     <img align="center" height="40" width="40" src="/assets/mongodb.png" />
-    <img align="center" height="40" width="40" src="/assets/cassandra.png" />
-    <img align="center" height="40" width="40" src="/assets/elastic search.png" />
     <img align="center" height="40" width="40" src="/assets/redis.png" />
     <img align="center" height="40" width="40" src="/assets/h2.png" />
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
+    <img align="center" height="40" width="40" src="/assets/eclipse.png" />
     <img align="center" height="40" width="40" src="/assets/intellij.png" />
+    <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
+    <img align="center" height="40" width="40" src="/assets/C.png" />
+    <img align="center" height="40" width="40" src="/assets/cpp.png" />
+    <img align="center" height="40" width="40" src="/assets/rust.png" />
     <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
