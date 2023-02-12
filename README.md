@@ -22,7 +22,7 @@ I love programming low level, but my focus is the development web, especially in
 <div style="display: inline_block;">
     <br/>
     <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
-    <img align="center" height="40" width="40" src="/assets/c.png" />
+    <img align="center" height="40" width="40" src="/assets/ANSI_C-GCC.png" />
     <img align="center" height="40" width="40" src="/assets/Cpp.png" />
     <img align="center" height="40" width="40" src="/assets/rust.png" />
     <img align="center" height="40" width="40" src="/assets/html.png" />
@@ -43,8 +43,10 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/compose.png" />
     <img align="center" height="40" width="40" src="/assets/kubernates.png" />
     <img align="center" height="40" width="40" src="/assets/jenkins.png" />
-    <img align="center" height="40" width="40" src="/assets/promethues.png" />
+    <img align="center" height="40" width="40" src="/assets/prometheus.png" />
     <img align="center" height="40" width="40" src="/assets/grafana.png" />
+    <img align="center" height="40" width="40" src="/assets/nginx.png" />
+    <img align="center" height="40" width="40" src="/assets/heroku.png" />
     <img align="center" height="40" width="40" src="/assets/rabbitMQ.png" />
     <img align="center" height="40" width="40" src="/assets/apachekafka.png" />
     <img align="center" height="40" width="40" src="/assets/linux.png" />
