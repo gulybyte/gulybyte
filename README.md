@@ -28,6 +28,7 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
+    <img align="center" height="40" width="40" src="/assets/materialize.png" />
     <img align="center" height="40" width="40" src="/assets/bootstrap.png" />
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
@@ -45,6 +46,8 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/jenkins.png" />
     <img align="center" height="40" width="40" src="/assets/promethues.png" />
     <img align="center" height="40" width="40" src="/assets/grafana.png" />
+    <img align="center" height="40" width="40" src="/assets/rabbitMQ.png" />
+    <img align="center" height="40" width="40" src="/assets/apachekafka.png" />
     <img align="center" height="40" width="40" src="/assets/linux.png" />
     <img align="center" height="40" width="40" src="/assets/postgresql.png" />
     <img align="center" height="40" width="40" src="/assets/mongodb.png" />
@@ -53,6 +56,15 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
     <img align="center" height="40" width="40" src="/assets/eclipse.png" />
     <img align="center" height="40" width="40" src="/assets/intellij.png" />
+    <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
+    <img align="center" height="40" width="40" src="/assets/junit.png" />
+    <img align="center" height="40" width="40" src="/assets/mockito.png" />
+    <img align="center" height="40" width="40" src="/assets/jdbc.png" />
+    <img align="center" height="40" width="40" src="/assets/jsp.png" />
+    <img align="center" height="40" width="40" src="/assets/thymeleaf.png" />
+    <img align="center" height="40" width="40" src="/assets/spring-boot.png" />
+    <img align="center" height="40" width="40" src="/assets/spring-data.png" />
+    <img align="center" height="40" width="40" src="/assets/spring-sec.png" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
