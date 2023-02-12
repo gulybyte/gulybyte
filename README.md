@@ -19,7 +19,35 @@
 <img align="right" height="100" width="100" src="/assets/devs.gif"/>
 I love programming low level, but my focus is the development web, especially in Spring & AWS. 🛠 Technologies I master:
 
-<div style="display: inline_block"><br><img align="center" height="40" width="40" src="/assets/html.png"> <img align="center" height="40" width="40" src="/assets/css.png"> <img align="center" height="40" width="40" src="/assets/js.png"> <img align="center" height="40" width="40" src="/assets/ts.png"> <img align="center" height="40" width="40" src="/assets/jquery.png"> <img align="center" height="40" width="40" src="/assets/bootstrap.png"> <img align="center" height="40" width="40" src="/assets/angular.png"> <img align="center" height="40" width="40" src="/assets/git.png"> <img align="center" height="40" width="40" src="/assets/github.png"> <img align="center" height="40" width="40" src="/assets/docker.png"> <img align="center" height="40" width="40" src="/assets/kubernates.png"> <img align="center" height="40" width="40" src="/assets/jenkins.png"> <img align="center" height="40" width="40" src="/assets/promethues.png"> <img align="center" height="40" width="40" src="/assets/grafana.png"> <img align="center" height="40" width="40" src="/assets/linux.png"> <img align="center" height="40" width="40" src="/assets/manjaro.png"> <img align="center" height="40" width="40" src="/assets/postgresql.png"> <img align="center" height="40" width="40" src="/assets/mongodb.png"> <img align="center" height="40" width="40" src="/assets/cassandra.png"> <img align="center" height="40" width="40" src="/assets/elastic search.png"> <img align="center" height="40" width="40" src="/assets/redis.png"> <img align="center" height="40" width="40" src="/assets/h2.png"> <img align="center" height="40" width="40" src="/assets/vscode.png"> <img align="center" height="40" width="40" src="/assets/intellij.png"> <img align="center" height="40" width="40" src="/assets/jaspersoft.png"></div>
+<div style="display: inline_block;">
+    <br/>
+    <img align="center" height="40" width="40" src="/assets/html.png" />
+    <img align="center" height="40" width="40" src="/assets/css.png" />
+    <img align="center" height="40" width="40" src="/assets/js.png" />
+    <img align="center" height="40" width="40" src="/assets/webpack.png" />
+    <img align="center" height="40" width="40" src="/assets/ts.png" />
+    <img align="center" height="40" width="40" src="/assets/jquery.png" />
+    <img align="center" height="40" width="40" src="/assets/bootstrap.png" />
+    <img align="center" height="40" width="40" src="/assets/angular.png" />
+    <img align="center" height="40" width="40" src="/assets/git.png" />
+    <img align="center" height="40" width="40" src="/assets/github.png" />
+    <img align="center" height="40" width="40" src="/assets/docker.png" />
+    <img align="center" height="40" width="40" src="/assets/kubernates.png" />
+    <img align="center" height="40" width="40" src="/assets/jenkins.png" />
+    <img align="center" height="40" width="40" src="/assets/promethues.png" />
+    <img align="center" height="40" width="40" src="/assets/grafana.png" />
+    <img align="center" height="40" width="40" src="/assets/linux.png" />
+    <img align="center" height="40" width="40" src="/assets/manjaro.png" />
+    <img align="center" height="40" width="40" src="/assets/postgresql.png" />
+    <img align="center" height="40" width="40" src="/assets/mongodb.png" />
+    <img align="center" height="40" width="40" src="/assets/cassandra.png" />
+    <img align="center" height="40" width="40" src="/assets/elastic search.png" />
+    <img align="center" height="40" width="40" src="/assets/redis.png" />
+    <img align="center" height="40" width="40" src="/assets/h2.png" />
+    <img align="center" height="40" width="40" src="/assets/vscode.png" />
+    <img align="center" height="40" width="40" src="/assets/intellij.png" />
+    <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
+</div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
 <img align="right" width="320px" src="/assets/octocat.png">
