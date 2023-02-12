@@ -85,7 +85,7 @@ I love programming low level, but my focus is the development web, especially in
 
 - 💬 I'm open to questions, especially about Spring and AWS.;
 
-- 📫 Get in touch <a target="_blank" href="https://wa.me/5541998201927">Whatsapp</a> ou <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
+- 📫 Get in touch <a target="_blank" href="https://wa.me/5541998201927">Whatsapp</a> or <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
 
 </details>
 <div style="clear: both;"></div><div style="clear: both;"></div>
