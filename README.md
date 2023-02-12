@@ -28,7 +28,6 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
-    <img align="center" height="40" width="40" src="/assets/materialize.png" />
     <img align="center" height="40" width="40" src="/assets/bootstrap.png" />
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
@@ -59,12 +58,14 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
     <img align="center" height="40" width="40" src="/assets/junit.png" />
     <img align="center" height="40" width="40" src="/assets/mockito.png" />
-    <img align="center" height="40" width="40" src="/assets/jdbc.png" />
     <img align="center" height="40" width="40" src="/assets/jsp.png" />
     <img align="center" height="40" width="40" src="/assets/thymeleaf.png" />
     <img align="center" height="40" width="40" src="/assets/spring-boot.png" />
     <img align="center" height="40" width="40" src="/assets/spring-data.png" />
     <img align="center" height="40" width="40" src="/assets/spring-sec.png" />
+    <img align="center" height="40" width="40" src="/assets/openapi.png" />
+    <img align="center" height="40" width="40" src="/assets/maven.png" />
+    <img align="center" height="40" width="40" src="/assets/gradle.png" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
