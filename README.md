@@ -23,6 +23,7 @@ I love programming low level, but my focus is the development web, especially in
     <br/>
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
+    <img align="center" height="40" width="40" src="/assets/scss.png" />
     <img align="center" height="40" width="40" src="/assets/bootstrap.png" />
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
