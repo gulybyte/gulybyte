@@ -21,6 +21,10 @@ I love programming low level, but my focus is the development web, especially in
 
 <div style="display: inline_block;">
     <br/>
+    <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
+    <img align="center" height="40" width="40" src="/assets/c.png" />
+    <img align="center" height="40" width="40" src="/assets/Cpp.png" />
+    <img align="center" height="40" width="40" src="/assets/rust.png" />
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
@@ -49,11 +53,6 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
     <img align="center" height="40" width="40" src="/assets/eclipse.png" />
     <img align="center" height="40" width="40" src="/assets/intellij.png" />
-    <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
-    <img align="center" height="40" width="40" src="/assets/C.png" />
-    <img align="center" height="40" width="40" src="/assets/cpp.png" />
-    <img align="center" height="40" width="40" src="/assets/rust.png" />
-    <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
