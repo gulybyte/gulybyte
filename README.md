@@ -54,6 +54,7 @@ I love programming low level, but my focus is the development web, especially in
     <img align="center" height="40" width="40" src="/assets/mongodb.png" />
     <img align="center" height="40" width="40" src="/assets/redis.png" />
     <img align="center" height="40" width="40" src="/assets/h2.png" />
+    <img align="center" height="40" width="40" src="/assets/vim.png" />
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
     <img align="center" height="40" width="40" src="/assets/intellij.png" />
     <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
