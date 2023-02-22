@@ -7,7 +7,7 @@
 <div style="clear: both;"></div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3934DC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+github;My+name+is+Guilherme,+I+have+17+years;Just+a+big+tech+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3934DC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+github;Meu+nome+é+Guilherme!,+eu+tenho+17+anos;Apenas+um+grande+amante+de+tecnologia)](https://git.io/typing-svg)
 
 <h1 align="center" style="color: #3934DC;"> Social Media: </h1>
   <p align="center">
@@ -22,7 +22,7 @@
     </a>
   </p>
 <img align="right" height="100" width="100" src="/assets/devs.gif"/>
-I love programming low level, but my focus is the development web, especially in Spring & AWS. 🛠 Technologies I master:
+Amo programação low level, porém meu foco é desenvolvimento web, especialmente Java (Sprning) 🛠 Tecnologias que domino:
 
 <div style="display: inline_block;">
     <br/>
@@ -79,19 +79,19 @@ I love programming low level, but my focus is the development web, especially in
 <img align="right" width="320px" src="/assets/octocat.png">
 
 <details align="left">
-  <summary><h2>🧑 About me</h2></summary>
+  <summary><h2>🧑 Sobre mim</h2></summary>
 
-- 🔭 Currently studying microservices architecture;
+- 🔭 Atualmente focado em estudar arquitetura de microservices;
 
-- 🌱 Currently especiallying in ecosystem Spring;
+- 🌱 Me especializando no ecossistema do Spring;
 
-- 🤝 Looking projects incredibles that I can contribution;
+- 🤝 Em busca de projetos para contribuição e network;
 
-- 👨‍💻 The my projects is the private, yet now focus is creating open sources;
+- 👨‍💻 A maioria dos meus projetos estão privados, agora o foco é OpenSource 💪;
 
-- 💬 I'm open to questions, especially about Spring and AWS.;
+- 💬 Aberto a perguntas e discussões, especialmente sobre desenvolvimento web;
 
-- 📫 Get in touch <a target="_blank" href="https://wa.me/5541998201927">Whatsapp</a> or <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
+- 📫 Entre em contato por <a target="_blank" href="https://wa.me/5541998201927">Whatsapp</a> ou <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
 
 </details>
 <div style="clear: both;"></div><div style="clear: both;"></div>
@@ -104,7 +104,7 @@ I love programming low level, but my focus is the development web, especially in
 
 </p>
 
-## 📘 Noteworthy Projects:
+## 📘 Projetos notáveis:
 
 <p align="left">
   <a href="https://github.com/gulybyte/Java-Assuntos-Gerais"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=Java-Assuntos-Gerais&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
