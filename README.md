@@ -22,7 +22,7 @@
     </a>
   </p>
 <img align="right" height="100" width="100" src="/assets/devs.gif"/>
-Amo programação low level, porém meu foco é desenvolvimento web, especialmente Java (Sprning) 🛠 Tecnologias que domino:
+Amo programação low level, porém meu foco é desenvolvimento web, especialmente Java (Spring) 🛠 Tecnologias que domino:
 
 <div style="display: inline_block;">
     <br/>
