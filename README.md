@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=060D15&height=120&section=header"/>
 
-<p align="center"><img src="/assets/welcome.gif" width="50%"></p>
+
+<span style="float: left;"><img src="/assets/welcome.gif" width="50%"></span>
+<span style="float: right;"><img src="/assets/nrnl.png" width="50%"></span>
 <div style="clear: both;"></div>
 
 
