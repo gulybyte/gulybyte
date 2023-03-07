@@ -75,7 +75,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
-<img align="right" width="320px" src="/assets/octocat.png">
+<img align="right" width="320px" src="/assets/myoctocat.png">
 
 <details align="left">
   <summary><h2>🧑 Sobre mim</h2></summary>
