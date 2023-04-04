@@ -29,6 +29,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
     <img align="center" height="40" width="40" src="/assets/ANSI_C-GCC.png" />
     <img align="center" height="40" width="40" src="/assets/Cpp.png" />
+    <img align="center" height="40" width="40" src="/assets/rust.png" />
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
