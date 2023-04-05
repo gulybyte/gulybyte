@@ -43,7 +43,6 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/angular.png" />
     <img align="center" height="40" width="40" src="/assets/primeng.png" />
     <img align="center" height="40" width="40" src="/assets/git.png" />
-    <img align="center" height="40" width="40" src="/assets/github.png" />
     <img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
     <img align="center" height="40" width="40" src="/assets/docker.png" />
     <img align="center" height="40" width="40" src="/assets/compose.png" />
