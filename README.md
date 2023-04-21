@@ -110,7 +110,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 
 <p align="left">
   <a href="https://github.com/gulybyte/Java-Assuntos-Gerais"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=Java-Assuntos-Gerais&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
-  <a href="https://github.com/gulybyte/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=api-gerenciamento-de-tarefas&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
+  <a href="https://github.com/gulybyte/gulybyte.github.io"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=gulybyte.github.io&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/gulybyte?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=060D15&logo=repo"/></a>
