@@ -35,13 +35,15 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
     <img align="center" height="40" width="40" src="/assets/bootstrap.png" />
+    <img align="center" height="40" width="40" src="/assets/tailwind.png" />
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
     <img align="center" height="40" width="40" src="/assets/webpack.png" />
     <img align="center" height="40" width="40" src="/assets/npm.png" />
     <img align="center" height="40" width="40" src="/assets/ts.png" />
     <img align="center" height="40" width="40" src="/assets/angular.png" />
-    <img align="center" height="40" width="40" src="/assets/primeng.png" />
+    <img align="center" height="40" width="40" src="/assets/vue.png" />
+    <img align="center" height="40" width="40" src="/assets/nuxt.svg" />
     <img align="center" height="40" width="40" src="/assets/git.png" />
     <img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
     <img align="center" height="40" width="40" src="/assets/docker.png" />
