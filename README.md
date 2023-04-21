@@ -2,7 +2,7 @@
 
 <div align="center">
 <span style="float: left;"><img src="/assets/welcome.gif" width="58%"></span>
-<span style="float: right;"><img src="/assets/nrnl.png" width="31%"></span>
+<span style="float: right;"><img src="https://gulybyte.github.io/static/images/no-rules-no-limits.webp" width="31%"></span>
 </div>
 <div style="clear: both;"></div>
 
