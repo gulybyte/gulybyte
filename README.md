@@ -109,7 +109,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 ## 📘 Projetos notáveis:
 
 <p align="left">
-  <a href="https://github.com/gulybyte/api-gerenciamento-de-tarefas"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=api-gerenciamento-de-tarefas&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
+  <a href="https://github.com/gulybyte/sample-todo"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=sample-todo&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
   <a href="https://github.com/gulybyte/gulybyte.github.io"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=gulybyte.github.io&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
