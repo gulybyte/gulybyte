@@ -22,7 +22,7 @@
     </a>
   </p>
 <img align="right" height="100" width="100" src="/assets/devs.gif"/>
-Amo programação low level, porém meu foco é desenvolvimento web, especialmente Java (Spring) 🛠 Tecnologias que domino:
+Amo programação low level, porém meu foco é desenvolvimento web, especialmente Java (Spring) 🛠 Tecnologias que uso:
 
 <div style="display: inline_block;">
     <br/>
@@ -48,20 +48,17 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
     <img align="center" height="40" width="40" src="/assets/docker.png" />
     <img align="center" height="40" width="40" src="/assets/compose.png" />
-    <img align="center" height="40" width="40" src="/assets/kubernates.png" />
     <img align="center" height="40" width="40" src="/assets/jenkins.png" />
     <img align="center" height="40" width="40" src="/assets/prometheus.png" />
     <img align="center" height="40" width="40" src="/assets/grafana.png" />
     <img align="center" height="40" width="40" src="/assets/nginx.png" />
     <img align="center" height="40" width="40" src="/assets/heroku.png" />
-    <img align="center" height="40" width="40" src="/assets/rabbitMQ.png" />
     <img align="center" height="40" width="40" src="/assets/apachekafka.png" />
     <img align="center" height="40" width="40" src="/assets/linux.png" />
     <img align="center" height="40" width="40" src="/assets/postgresql.png" />
     <img align="center" height="40" width="40" src="/assets/mongodb.png" />
     <img align="center" height="40" width="40" src="/assets/redis.png" />
     <img align="center" height="40" width="40" src="/assets/h2.png" />
-    <img align="center" height="40" width="40" src="/assets/vim.png" />
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
     <img align="center" height="40" width="40" src="/assets/intellij.png" />
     <img align="center" height="40" width="40" src="/assets/jaspersoft.png" />
