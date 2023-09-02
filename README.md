@@ -127,7 +127,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gulybyte&theme=shades-of-purple&hide_border=true&background=060D15" />
 </a>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulybyte&theme=gotham&bg_color=060D15)
+<!--![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulybyte&theme=gotham&bg_color=060D15)-->
 
 <a href="https://github.com/gulybyte">
    <img width="98%" src="https://github-trophies.vercel.app/?username=gulybyte&theme=darkhub&no-frame=true"/>
