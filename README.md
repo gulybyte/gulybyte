@@ -136,6 +136,12 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 ![Snake animation](https://github.com/gulybyte/gulybyte/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;))))<br> &nbsp;&nbsp;&nbsp;((((<br> &nbsp;&nbsp;&nbsp;&nbsp;))))<br> _ &nbsp;.- - -.<br> (&nbsp;|&grave;- - -'|<br> &nbsp;\\|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br> &nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;.___,&nbsp;&nbsp;&nbsp;:<br> &nbsp;&nbsp;&grave;- - - - -'<br> &nbsp;&nbsp;K&nbsp;E&nbsp;E&nbsp;P<br> &nbsp;&nbsp;C&nbsp;A&nbsp;L&nbsp;M<br> &nbsp;&nbsp;&nbsp;and<br> &nbsp;&nbsp;D&nbsp;R&nbsp;I&nbsp;N&nbsp;K<br> &nbsp;&nbsp;C&nbsp;O&nbsp;F&nbsp;F&nbsp;E&nbsp;E
+
+</div>
+
+<div align="center">
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gulybyte}/count.svg" /></p> 
 </div>
 
@@ -145,4 +151,3 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 
 <div style="clear: both;"></div><div style="clear: both;"></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=060D15&height=120&section=footer"/>
-
