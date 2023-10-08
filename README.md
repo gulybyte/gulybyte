@@ -54,7 +54,6 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/nginx.png" />
     <img align="center" height="40" width="40" src="/assets/heroku.png" />
     <img align="center" height="40" width="40" src="/assets/apachekafka.png" />
-    <img align="center" height="40" width="40" src="/assets/linux.png" />
     <img align="center" height="40" width="40" src="/assets/postgresql.png" />
     <img align="center" height="40" width="40" src="/assets/mongodb.png" />
     <img align="center" height="40" width="40" src="/assets/redis.png" />
