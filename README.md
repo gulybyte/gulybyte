@@ -29,8 +29,8 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/assembly-nasm.png" />
     <img align="center" height="40" width="40" src="/assets/ANSI_C-GCC.png" />
     <img align="center" height="40" width="40" src="/assets/Cpp.png" />
-    <img align="center" height="40" width="40" src="/assets/Rust.png" />
-    <img align="center" height="40" width="40" src="/assets/haskell.png" />
+    <!--<img align="center" height="40" width="40" src="/assets/Rust.png" />
+    <img align="center" height="40" width="40" src="/assets/haskell.png" />-->
     <img align="center" height="40" width="40" src="/assets/html.png" />
     <img align="center" height="40" width="40" src="/assets/css.png" />
     <img align="center" height="40" width="40" src="/assets/sass.png" />
@@ -38,25 +38,25 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
     <img align="center" height="40" width="40" src="/assets/tailwind.png" />
     <img align="center" height="40" width="40" src="/assets/js.png" />
     <img align="center" height="40" width="40" src="/assets/jquery.png" />
-    <img align="center" height="40" width="40" src="/assets/webpack.png" />
+    <!--<img align="center" height="40" width="40" src="/assets/webpack.png" />-->
     <img align="center" height="40" width="40" src="/assets/npm.png" />
     <img align="center" height="40" width="40" src="/assets/ts.png" />
     <img align="center" height="40" width="40" src="/assets/angular.png" />
     <img align="center" height="40" width="40" src="/assets/vue.png" />
     <img align="center" height="40" width="40" src="/assets/nuxt.svg" />
     <img align="center" height="40" width="40" src="/assets/git.png" />
-    <img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
+    <!--<img align="center" height="40" width="40" src="/assets/vercelgithub.png" />-->
     <img align="center" height="40" width="40" src="/assets/docker.png" />
     <img align="center" height="40" width="40" src="/assets/compose.png" />
-    <img align="center" height="40" width="40" src="/assets/jenkins.png" />
+    <!--<img align="center" height="40" width="40" src="/assets/jenkins.png" />
     <img align="center" height="40" width="40" src="/assets/prometheus.png" />
     <img align="center" height="40" width="40" src="/assets/grafana.png" />
     <img align="center" height="40" width="40" src="/assets/nginx.png" />
     <img align="center" height="40" width="40" src="/assets/heroku.png" />
-    <img align="center" height="40" width="40" src="/assets/apachekafka.png" />
+    <img align="center" height="40" width="40" src="/assets/apachekafka.png" />-->
     <img align="center" height="40" width="40" src="/assets/linux.png" />
     <img align="center" height="40" width="40" src="/assets/postgresql.png" />
-    <img align="center" height="40" width="40" src="/assets/mongodb.png" />
+    <!--<img align="center" height="40" width="40" src="/assets/mongodb.png" />-->
     <img align="center" height="40" width="40" src="/assets/redis.png" />
     <img align="center" height="40" width="40" src="/assets/h2.png" />
     <img align="center" height="40" width="40" src="/assets/vscode.png" />
@@ -77,7 +77,9 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 
 <img align="right" width="320px" src="/assets/ioctocat.png">
 
-<details align="left">
+<div style="clear: both;"></div><div style="clear: both;"></div>
+
+<!--<details align="left">
   <summary><h2>🧑 Sobre mim</h2></summary>
 
 - 🔭 Atualmente focado em estudar arquitetura de microservices;
@@ -92,7 +94,7 @@ Amo programação low level, porém meu foco é desenvolvimento web, especialmen
 
 - 📫 Entre em contato por <a target="_blank" href="https://wa.me/5541998201927">Whatsapp</a> ou <a target="_blank" href="mailto:gulybyte@gmail.com">E-Mail</a>;
 
-</details>
+</details>-->
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
 <p align="right"> 
