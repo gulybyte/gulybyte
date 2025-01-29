@@ -43,6 +43,7 @@ I love low-level programming, but my focus is web development, especially Java (
 <img align="center" height="55" width="55" src="assets/redis.svg" />
 <img align="center" height="40" width="40" src="assets/upstash.png" />
 <img align="center" height="40" width="40" src="assets/docker.svg" />
+<img align="center" height="40" width="38" src="assets/shortcut.avif" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
