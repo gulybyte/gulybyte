@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=060D15&height=120&section=header"/>
 
 <div align="center">
-<span style="float: left;"><img src="/assets/welcome.gif" width="58%"></span>
+<span style="float: left;"><img src="assets/welcome.gif" width="58%"></span>
 <span style="float: right;"><img src="https://gulybyte.github.io/static/images/no-rules-no-limits.webp" width="31%"></span>
 </div>
 <div style="clear: both;"></div>
@@ -29,29 +29,26 @@
 I love low-level programming, but my focus is web development, especially Java (Spring) and NodeJS (NestJS) 🛠 Main technologies I use and love:
 
 <div style="">
-<img align="center" height="40" width="40" src="/assets/vue.png" />
-<img align="center" height="40" width="40" src="/assets/cf-pages.png" />
-<img align="center" height="40" width="40" src="/assets/nuxt.svg" />
-<img align="center" height="40" width="40" src="/assets/vercelgithub.png" />
-<img align="center" height="40" width="40" src="/assets/java.png" />
-<img align="center" height="40" width="40" src="/assets/spring.png" />
-<img align="center" height="40" width="40" src="/assets/ts.png" />
-<img align="center" height="40" width="40" src="/assets/nestjs.svg" />
-<img align="center" height="40" width="40" src="/assets/heroku.png" />
-<img align="center" height="40" width="40" src="/assets/postgresql.png" />
-<img align="center" height="40" width="40" src="/assets/neon-pg.png" />
-<img align="center" height="40" width="40" src="/assets/redis.png" />
-<img align="center" height="40" width="40" src="/assets/upstash.png" />
-<img align="center" height="40" width="40" src="/assets/docker.png" />
-<img align="center" height="40" width="40" src="/assets/compose.png" />
-<img align="center" height="40" width="40" src="/assets/cf.svg" />
-<img align="center" height="40" width="40" src="/assets/vscode.png" />
+<img align="center" height="55" width="55" src="assets/vue.svg" />
+<img align="center" height="65" width="65" src="assets/nuxt.svg" />
+<img align="center" height="45" width="45" src="assets/vercel.svg" />
+<img align="center" height="70" width="70" src="assets/cloudflare.svg" />
+<img align="center" height="45" width="45" src="assets/java.png" />
+<img align="center" height="50" width="50" src="assets/spring.svg" />
+<img align="center" height="40" width="40" src="assets/ts.svg" />
+<img align="center" height="50" width="50" src="assets/nestjs.svg" />
+<img align="center" height="40" width="40" src="assets/heroku.svg" />
+<img align="center" height="55" width="55" src="assets/postgres.svg" />
+<img align="center" height="40" width="40" src="assets/neon-pg.png" />
+<img align="center" height="55" width="55" src="assets/redis.svg" />
+<img align="center" height="40" width="40" src="assets/upstash.png" />
+<img align="center" height="40" width="40" src="assets/docker.svg" />
 </div>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
 ## 📘 Projects:
 
-<img align="right" width="180px" src="/assets/ioctocat.png">
+<img align="right" width="180px" src="assets/ioctocat.png">
 
 <div align="left">
   <a href="https://github.com/gulybyte/sample-todo"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gulybyte&repo=sample-todo&hide_border=true&bg_color=060D15&title_color=fff&text_color=fff&icon_color=white" alt="custom-icon-badges"></a>
@@ -74,7 +71,7 @@ I love low-level programming, but my focus is web development, especially Java (
 </p>
 <div style="clear: both;"></div><div style="clear: both;"></div>
 
-<img align="right" width="200px" src="/assets/programming.gif"/>
+<img align="right" width="200px" src="assets/programming.gif"/>
 <a href="https://github.com/gulybyte">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gulybyte&theme=shades-of-purple&hide_border=true&background=060D15" />
 </a>
